@@ -2,7 +2,7 @@ Este **Semáforo** é uma simulação simples de um semáforo funcional feita co
 
 Ele consiste em um retângulo vertical que contém três luzes circulares, representando as cores típicas de um semáforo: vermelho, amarelo e verde. Abaixo do semáforo, há um poste cinza, que dá uma aparência mais realista. O semáforo é responsivo, ou seja, ele se ajusta automaticamente a diferentes tamanhos de tela, tornando-o adequado para visualização em dispositivos móveis e desktop.
 
-## Funcionalidades:##
+## Funcionalidades: ##
 
 **Ciclo de Luzes:**
 
